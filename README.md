@@ -7,14 +7,10 @@ toolbar and styling will only be present when the admin theme is present.
 For this reason it makes the most sense to put this styling in a module rather
 than the theme.
 
-
-Installation
-------------
+## Installation
 
 By downloading and enabling this module styling will be applied.
 
+## Dependencies
 
-Dependencies
-------------
-
-- admin_toolbar
+- [admin_toolbar](https://www.drupal.org/project/admin_toolbar)
