@@ -1,5 +1,5 @@
 {
-  "name": "drupal/adminimal_admin_toolbar",
+  "name": "cityofboston/adminimal_admin_toolbar",
   "description": "Adminimal styling brought to admin toolbar.",
   "type": "drupal-module",
   "homepage": "https://www.drupal.org/project/adminimal_admin_toolbar",
